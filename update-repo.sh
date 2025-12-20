@@ -17,4 +17,4 @@ else
     createrepo "$REPO_DIR"
 fi
 
-echo "Done. Push these files to GitHub Pages to host your repo."
+echo "Done. Push these files to GitHub Pages to host the repo."
