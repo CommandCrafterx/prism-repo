@@ -1,0 +1,6 @@
+[prism-linux]
+name=Prism Linux Custom Repository
+baseurl=https://CommandCrafterx.github.io/prism-repo/
+enabled=1
+gpgcheck=0
+priority=1
