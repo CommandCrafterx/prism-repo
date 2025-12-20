@@ -1,5 +1,5 @@
 [prism-linux]
-name=Prism Linux Custom Repository
+name=Prism Linux Repository
 baseurl=https://CommandCrafterx.github.io/prism-repo/
 enabled=1
 gpgcheck=0
